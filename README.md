@@ -1,5 +1,3 @@
-# projet_tidal_irc_2020
-
 # Projet TIDAL (CPE)  
 *(english version below)*  
 
