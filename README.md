@@ -26,6 +26,8 @@ En cas de doutes, cette vidéo résume tout: https://www.grafikart.fr/tutoriels/
 
 ## Carnet de bord (dernière mise à jour 24/10/2020):
 
+- 05/11/2020: Reconstruction de la base de donnée
+
 - 04/11/2020: Réalisation du nouveau dépôt github, début de programmation du site.
 
 - 30/10/2020: Révélation de la faisabilité du projet: La réalisation du projet en vueJs posait quelques problèmes niveau développement (maitrise des technologies insuffisante). Nous avons relancer le projet changeant totalement les technologies --> site full HTML, CSS, PHP et MySQL. Nous avons concervé néanmoins la même structure de base de donnée.
