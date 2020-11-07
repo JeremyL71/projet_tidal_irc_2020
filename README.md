@@ -26,7 +26,9 @@ En cas de doutes, cette vidéo résume tout: https://www.grafikart.fr/tutoriels/
 
 ## Carnet de bord (dernière mise à jour 24/10/2020):
 
-- 05/11/2020: Reconstruction de la base de donnée
+- 06/11/2020: Finalisation du site en version 1.00, début de la création des branches pour amélioration
+
+- 05/11/2020: Reconstruction de la base de donnée + construction d'une base solide
 
 - 04/11/2020: Réalisation du nouveau dépôt github, début de programmation du site.
 
