@@ -1,5 +1,5 @@
 # Projet TIDAL (CPE)  
-*(english version below)*  
+lien du site: https://tidal.morandet.fr/connexion.php
 
 ## Présentation du projet TIDAL CPE 4IRC 2020  
   
