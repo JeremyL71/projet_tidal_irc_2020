@@ -1,3 +1,3 @@
 <?php
-require('boutique.php');
+require('shop.php');
 ?>
