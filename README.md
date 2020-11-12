@@ -24,7 +24,11 @@ Tester le bon fonctionnement de MySQL avec la commande et le mot de passe root:
   
 En cas de doutes, cette vidéo résume tout: https://www.grafikart.fr/tutoriels/windows-php-mysql-9017
 
-## Carnet de bord (dernière mise à jour 06/11/2020):
+## Carnet de bord (dernière mise à jour 12/11/2020):
+
+- 12/11/2020: finalisation de la version 2
+
+- 09/11/2020: Refonte globale du site.
 
 - 06/11/2020: Finalisation du site en version 1.00, début de la création des branches pour amélioration
 
